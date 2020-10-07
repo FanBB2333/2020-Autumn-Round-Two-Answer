@@ -72,7 +72,7 @@ OK！
 
 唔，因为电脑上本来就有VMware了，我就用的VMware  (｀・ω・´)
 
-![image-P1-1-8](uploads\P1-1-8.png)
+![image-P1-1-8](uploads/P1-1-8.png)
 
 ## Part 2
 
@@ -184,7 +184,7 @@ dino:x:1001:1001::/home/dino:/bin/sh
 
 **修改前**
 
-![image-P2-2-5-before](uploads\P2-2-5-before.png)
+![image-P2-2-5-before](uploads/P2-2-5-before.png)
 
 
 
@@ -192,7 +192,7 @@ dino:x:1001:1001::/home/dino:/bin/sh
 
 
 
-![image-P2-2-5-after](uploads\P2-2-5-after.png)
+![image-P2-2-5-after](uploads/P2-2-5-after.png)
 
 ### 2-6
 
@@ -253,7 +253,7 @@ ls -A -d .* # -A参数用于显示除.和..以外的文件，-d只让终端显�
 ls -a /etc/*.conf # -a表示显示所有文件，p*.conf用于匹配以“.conf”结尾的文件
 ```
 
-![image-P2-2-10](uploads\P2-2-10.png)
+![image-P2-2-10](uploads/P2-2-10.png)
 
 ### 2-11
 
@@ -279,7 +279,7 @@ ls -a /etc/*.conf # -a表示显示所有文件，p*.conf用于匹配以“.conf�
   chmod g+x myexefile
   chmod o+x myexefile
   ```
-  ![image-P2-2-12](uploads\P2-2-12.png)
+  ![image-P2-2-12](uploads/P2-2-12.png)
   
   ### 补充-挂载
   
@@ -310,4 +310,4 @@ ls -a /etc/*.conf # -a表示显示所有文件，p*.conf用于匹配以“.conf�
 
 ### 2-16
 
-![image-P2-2-16](uploads\P2-2-16.png)
+![image-P2-2-16](uploads/P2-2-16.png)
