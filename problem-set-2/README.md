@@ -4,11 +4,11 @@
 
 给的图长宽比不到2:1
 
-![Pic_given](resource\Pic_given.png)
+![Pic_given](resource/Pic_given.png)
 
 但是设计图纸中长宽比约为2:1，也就是说给的图好像没有设计图纸中最右边那部分
 
-![Pic_design_drawing](resource\Pic_design_drawing.png)
+![Pic_design_drawing](resource/Pic_design_drawing.png)
 
 2.在~~远古~~版本为11.508.19041.0的IE上无法正常使用flex-box，渲染出来会挤成一团，别的浏览器(包括使用Chrome内核的新版EDGE)均无此问题
 
